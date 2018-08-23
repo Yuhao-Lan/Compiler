@@ -7,6 +7,7 @@ We can check a program for syntax correctness by yacc and lex. With an Abstract 
 
 # Requirement
 
+Please read all 10 lab requirements step by step(https://github.com/Yuhao-Lan/Compiler/tree/master/Labs).
 
 # Test results
 
