@@ -13,3 +13,20 @@ Please read all 10 lab requirements step by step(https://github.com/Yuhao-Lan/Co
 
 https://github.com/Yuhao-Lan/Compiler/blob/master/Lab%209%20Generating%20MIPS%20CODE.pdf
 
+**Realize the READ and WRITE to a VARIABLE or a NUMBER functionality**
+
+![alt text](https://github.com/Yuhao-Lan/Compiler/blob/master/Results/Lab%209%20Generating%20MIPS%20CODE-page-005.jpg)
+
+**Realize the IF STATEMENT**
+
+![alt text](https://github.com/Yuhao-Lan/Compiler/blob/master/Results/Lab%209%20Generating%20MIPS%20CODE-page-001.jpg)
+
+![alt text](https://github.com/Yuhao-Lan/Compiler/blob/master/Results/Lab%209%20Generating%20MIPS%20CODE-page-002.jpg)
+
+**Realize the WHILE LOOP STATEMENT**
+
+![alt text](https://github.com/Yuhao-Lan/Compiler/blob/master/Results/Lab%209%20Generating%20MIPS%20CODE-page-003.jpg)
+
+![alt text](https://github.com/Yuhao-Lan/Compiler/blob/master/Results/Lab%209%20Generating%20MIPS%20CODE-page-004.jpg)
+
+
